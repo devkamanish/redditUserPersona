@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# IDEs
+.idea/
+
+# Environment variables (Reddit API keys)
+.env

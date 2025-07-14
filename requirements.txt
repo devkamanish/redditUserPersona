@@ -1,0 +1,9 @@
+praw
+requests
+transformers
+matplotlib
+wordcloud
+vaderSentiment
+jinja2
+python-dotenv
+markdown
