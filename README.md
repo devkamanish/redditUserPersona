@@ -119,7 +119,7 @@ personas/
 
 ## 👩‍💻 Author
 
-Made with ❤️ by MAnish Devka
+Made with ❤️ by Manish Devka
 
 ---
 
