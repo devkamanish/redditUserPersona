@@ -7,3 +7,4 @@ vaderSentiment
 jinja2
 python-dotenv
 markdown
+
